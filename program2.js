@@ -1,4 +1,4 @@
-const decodeTheRing = function (s, p) {
+const decodeTheRing = function (str, pattern) {
 
     // write your code here
 
